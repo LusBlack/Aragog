@@ -4,8 +4,6 @@ import (
 	"fmt"
 	"net/http"
 
-	//"simple-colly-example/crawler"
-
 	"github.com/LusBlack/Aragog/crawler"
 	"github.com/gorilla/mux"
 )
